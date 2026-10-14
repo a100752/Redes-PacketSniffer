@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Logs and outputs
+log.txt
+*.log
+
+# Captures
+*.pcap
+*.pcapng
+
+# OS and IDE
+.DS_Store
+.idea/
+.vscode/
